@@ -115,7 +115,7 @@ Run the code in main.ipynb
 | Cropping (25%)            | 0.603     | 0.956             | ✅ Localisation OK    |
 
 ---
-
+<!--
 ## 🔗 Citation
 
 If you use this code or framework in your research, please cite:
@@ -128,6 +128,7 @@ If you use this code or framework in your research, please cite:
   year={2025},
   publisher={Springer}
 }
+-->
 ```
 
 ---
