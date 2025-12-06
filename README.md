@@ -49,7 +49,7 @@ The fragile watermark demonstrates near-perfect tamper localisation precision (*
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Dual-Purpose-DCT-Watermarking.git
+git clone https://github.com/Harshitmishra001/Dual-Purpose-DCT-Watermarking.git
 cd Dual-Purpose-DCT-Watermarking
 ```
 
