@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-DCT-green)](https://github.com/topics/watermarking)
+[![DOI](https://zenodo.org/badge/1110675152.svg)](https://doi.org/10.5281/zenodo.17836166)
 
 This repository contains the official source code and experimental data for the manuscript **"A Dual-Purpose DCT Watermarking Framework for Robust Copyright Protection and Fragile Tamper Localisation"**, submitted to *The Visual Computer* (Springer Nature).
 
